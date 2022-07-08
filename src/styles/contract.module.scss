@@ -35,7 +35,6 @@
 		}
 
 		&_content {
-			max-height: 30px;
 			width: 100%;
 			display: grid;
 			gap: 25px 0;
@@ -49,7 +48,6 @@
 				color: $blue;
 			}
 			&_toggled {
-				max-height: 100%;
 				justify-self: start;
 			}
 		}
